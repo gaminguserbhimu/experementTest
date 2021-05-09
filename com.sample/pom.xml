@@ -35,7 +35,7 @@
 						<configuration>
 							<suiteXmlFiles>
 								<!-- TestNG suite XML files -->
-								<suiteXmlFile>testng_full_regression.xml</suiteXmlFile>
+								<suiteXmlFile>testng_full.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 						</plugin>
