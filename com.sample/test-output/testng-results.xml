@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-09T15:43:14 IST" name="Suite" finished-at="2021-05-09T15:43:14 IST" duration-ms="79">
+  <suite started-at="2021-05-09T15:54:26 IST" name="Suite" finished-at="2021-05-09T15:54:26 IST" duration-ms="67">
     <groups>
     </groups>
-    <test started-at="2021-05-09T15:43:14 IST" name="Test" finished-at="2021-05-09T15:43:14 IST" duration-ms="79">
+    <test started-at="2021-05-09T15:54:26 IST" name="Test" finished-at="2021-05-09T15:54:26 IST" duration-ms="67">
       <class name="com.sample.productTest.Closuretest">
-        <test-method signature="testing()[pri:0, instance:com.sample.productTest.Closuretest@5db250b4]" started-at="2021-05-09T15:43:14 IST" name="testing" finished-at="2021-05-09T15:43:14 IST" duration-ms="12" status="PASS">
+        <test-method signature="testing()[pri:0, instance:com.sample.productTest.Closuretest@15b204a1]" started-at="2021-05-09T15:54:26 IST" name="testing" finished-at="2021-05-09T15:54:26 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testing -->
       </class> <!-- com.sample.productTest.Closuretest -->
       <class name="com.sample.productTest.Classictest">
-        <test-method signature="testing()[pri:0, instance:com.sample.productTest.Classictest@223f3642]" started-at="2021-05-09T15:43:14 IST" name="testing" finished-at="2021-05-09T15:43:14 IST" duration-ms="4" status="PASS">
+        <test-method signature="testing()[pri:0, instance:com.sample.productTest.Classictest@77167fb7]" started-at="2021-05-09T15:54:26 IST" name="testing" finished-at="2021-05-09T15:54:26 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testing -->
