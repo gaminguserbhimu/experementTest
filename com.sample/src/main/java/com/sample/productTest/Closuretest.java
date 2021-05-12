@@ -2,11 +2,11 @@ package com.sample.productTest;
 
 import org.testng.annotations.Test;
 
-public class Classictest {
+public class Closuretest {
 	
 	@Test
 	public void testing() {
-		System.out.println("This is experemental");
+		System.out.println("This is new experemental");
 		String browser = System.getProperty("browser");
 		String enviorment = System.getProperty("env");
 		
